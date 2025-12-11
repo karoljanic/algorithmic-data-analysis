@@ -2,3 +2,5 @@ ipykernel >= 6.0
 morfeusz2
 wordcloud
 statsmodels
+scikit-learn
+seaborn
