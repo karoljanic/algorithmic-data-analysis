@@ -1,6 +1,12 @@
 ipykernel >= 6.0
+numpy < 2.0
 morfeusz2
 wordcloud
 statsmodels
 scikit-learn
 seaborn
+kagglehub
+spacy >= 3.7.0
+networkx
+
+# run manually: python -m spacy download en_core_web_sm
